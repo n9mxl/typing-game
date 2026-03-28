@@ -1,0 +1,21 @@
+body {
+  background: #111;
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+#game {
+  width: 400px;
+  height: 500px;
+  border: 2px solid white;
+  margin: 20px auto;
+  position: relative;
+  overflow: hidden;
+}
+
+.word {
+  position: absolute;
+  top: 0;
+  font-size: 20px;
+}
